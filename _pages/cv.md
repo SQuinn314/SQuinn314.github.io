@@ -11,6 +11,7 @@ redirect_from:
 
 # Stephen Quinn
 *Curriculum Vitae*
+*Last Updated: November 22, 2021*
 
 ## Education
 - 2017 **Ph.D. Mathematics**, University of Missouri, Columbia. Advisor: I. E. Verbitsky. *Dissertation: Sublinear Potential Equations and Weighted Integral Inequalities*
