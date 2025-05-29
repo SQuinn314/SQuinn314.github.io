@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I have a PhD in Mathematics from University of Missouri.
+Hi, I'm Stephen Quinn. I am analyst (or analytics engineer, according my current job title), currently working problems using data analysis, computation, and operations reserach.  I consider myself a lifelong learner (I did go for my data science masters after my math doctorate) and look to continuously add to my skillset. I find it rewarding to work through challenging problems and building tools to solve them.
 
-I am also working on a Masters in Data Science and Analytic Storytelling, which focuses on performing statistical and machine learning analysis and communicating that information to various audiences.
+These pages began as a homepage for my academic identity from my previous life as a mathematics professor. Now I need resumes instead of CVs, but I am going to keep this up anyways.

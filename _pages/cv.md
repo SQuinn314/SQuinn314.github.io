@@ -11,18 +11,18 @@ redirect_from:
 
 # Stephen Quinn
 *Curriculum Vitae*
-*Last Updated: November 22, 2021*
+*Last Updated: May 2025*
 
 ## Education
 - 2017 **Ph.D. Mathematics**, University of Missouri, Columbia. Advisor: I. E. Verbitsky. *Dissertation: Sublinear Potential Equations and Weighted Integral Inequalities*
-- 2022 **MS. Data Science & Analytic Storytelling**, Truman State University, Kirksville.
-*Anticipated Summer 2022.*
+- 2024 **MS. Data Science & Analytic Storytelling**, Truman State University, Kirksville.
 - 2013 **MA. Mathematics**, University of Missouri, Columbia.
 - 2011 **BA. Mathematics**, Truman State University, Kirksville. \\
 Minor: Biology
 
-## Appointments
-- 2017–Present **Assistant Professor**, Truman State University, Kirksville. 
+## Career
+- 2023-Present **Analytics Engineer**, UNCOMN, Scott AFB.
+- 2017–2023 **Assistant Professor**, Truman State University, Kirksville. 
 - 2011–2017 **Teaching Assistant**, University of Missouri, Columbia.
 
 ## Publications
